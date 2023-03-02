@@ -1,5 +1,4 @@
 from ej11POOTerminal import Terminal
-
 class Mobile(Terminal):
     tarifas = {"rata": 0.06, "mono": 0.12, "bisonte": 0.30}
 
